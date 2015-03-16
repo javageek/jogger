@@ -1,0 +1,1 @@
+Jogger is a Java-based client used to post blog entries on several blog applications (like Movable Type, Blogger, etc.) by using the Blogger XML-RPC API.
